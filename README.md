@@ -26,7 +26,7 @@ This project demonstrates a complete end-to-end ML deployment pipeline, from loc
 ## 💻 Local Setup (Without Docker)
 1. Clone the repository:
    
-   git clone [https://github.com/yourusername/ai-sentiment-api.git](https://github.com/yourusername/ai-sentiment-api.git)
+   git clone [https://github.com/yourusername/ai-sentiment-api.git](https://github.com/sharmistha1980/ai-sentiment-api.git)
    cd ai-sentiment-api
    
 2. Create and activate a virtual environment:
